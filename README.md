@@ -10,4 +10,4 @@ This repository has all the exercises the `An Introduction to Statistical Learni
 
 Check all the benefits on [Cauldron](http://www.unnotebook.com/) site. 
 
-
+`Cauldron` is free and open source!
