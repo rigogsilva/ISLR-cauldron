@@ -8,6 +8,6 @@ This repository has all the exercises the `An Introduction to Statistical Learni
 - Code reviews are made easy. Instead of using blob file, it uses `.py` files. This will allow a smooth code review. 
 - `Cauldron` is also ready for production. The user can use it's `CLI` to deploy their notebooks to production. 
 
-Check all the benefits on [Cauldron] site. 
+Check all the benefits on [Cauldron](http://www.unnotebook.com/) site. 
 
 
