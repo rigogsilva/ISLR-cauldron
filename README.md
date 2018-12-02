@@ -19,6 +19,9 @@ avoid having to install all the python libraries locally.
 
 This is how you start your container and run your notebooks:
 
+- Run docker-compose up to start container: ```docker-compose up```
+- Start `Cauldron` with `http://127.0.0.1:5010`
+
 ![](docs/gifs/docker-compose-up.gif)
 
 ### Installing new python libraries
