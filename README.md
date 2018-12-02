@@ -11,3 +11,21 @@ This repository has all the exercises the `An Introduction to Statistical Learni
 Check all the benefits on [Cauldron](http://www.unnotebook.com/) site. 
 
 `Cauldron` is free and open source!
+
+## Run Notebooks in Docker Container
+
+You can use the docker image in this repo to run your notebooks. This way you 
+avoid having to install all the python libraries locally.
+
+This is how you start your container and run your notebooks:
+
+![](docs/gifs/docker-compose-up.gif)
+
+### Installing new python libraries
+
+- Modify the [requirements.txt](requirements.txt) with the additional libraries.
+- Rebuild the container
+
+```bash
+docker-compose build
+```
