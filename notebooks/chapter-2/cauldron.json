@@ -1,0 +1,11 @@
+{
+  "author": "",
+  "id": "chapter-2",
+  "name": "chapter-2",
+  "naming_scheme": "S{{##}}-{{name}}.{{ext}}",
+  "steps": [
+    "S01.py"
+  ],
+  "summary": "",
+  "title": "chapter-2"
+}
