@@ -4,7 +4,38 @@
   "name": "chapter-2",
   "naming_scheme": "S{{##}}-{{name}}.{{ext}}",
   "steps": [
-    "S01.py"
+    {
+      "name": "S01-Creating-Vector-x.py",
+      "title": "S01.py"
+    },
+    {
+      "name": "S02-Adding-Up-Vectors.py",
+      "title": "S02.py"
+    },
+    {
+      "name": "S03-Fetching-Variables-Shared.py",
+      "title": "S03.py"
+    },
+    {
+      "name": "S04-Creating-Matrix.py",
+      "title": "S04.py"
+    },
+    {
+      "name": "S05-Matrix-and-Vectors-Square-Roots.py",
+      "title": "S05.py"
+    },
+    {
+      "name": "S06-Raise-To-The-Power-2.py",
+      "title": "S06.py"
+    },
+    {
+      "name": "S07-Standard-Normal-Random-Variables.py",
+      "title": "S07.py"
+    },
+    {
+      "name": "S08-Graphics.py",
+      "title": "S08.py"
+    }
   ],
   "summary": "",
   "title": "chapter-2"
