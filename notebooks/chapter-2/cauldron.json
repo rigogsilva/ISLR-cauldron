@@ -1,0 +1,40 @@
+{
+  "author": "",
+  "id": "chapter-2",
+  "name": "chapter-2",
+  "naming_scheme": "S{{##}}-{{name}}.{{ext}}",
+  "steps": [
+    {
+      "name": "S01-Creating-Vector-x.py"
+    },
+    {
+      "name": "S02-Adding-Up-Vectors.py"
+    },
+    {
+      "name": "S03-Fetching-Variables-Shared.py"
+    },
+    {
+      "name": "S04-Creating-Matrix.py"
+    },
+    {
+      "name": "S05-Matrix-and-Vectors-Square-Roots.py"
+    },
+    {
+      "name": "S06-Raise-To-The-Power-2.py"
+    },
+    {
+      "name": "S07-Standard-Normal-Random-Variables.py"
+    },
+    {
+      "name": "S08-Graphics.py"
+    },
+    {
+      "name": "S09-Sequence-Range.py"
+    },
+    {
+      "name": "S10-Contour-Plot.py"
+    }
+  ],
+  "summary": "",
+  "title": "chapter-2"
+}

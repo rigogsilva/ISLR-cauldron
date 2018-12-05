@@ -1,5 +1,7 @@
 # ISLR-cauldron
-An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code. Inspired by `https://github.com/JWarmenhoven/ISLR-python`
+An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code. Inspired by [https://github.com/JWarmenhoven/ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
+
+![](docs/img/book-cover.jpeg)
 
 This repository has all the exercises the `An Introduction to Statistical Learning` has in `R` but in `python`. The difference of this repository from `ISLR-python` is that instead of using Jupiter Notebooks, it will use [Cauldron](http://www.unnotebook.com/), `the unnotebook`. 
 
