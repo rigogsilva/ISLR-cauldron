@@ -35,6 +35,14 @@
     {
       "name": "S08-Graphics.py",
       "title": "S08.py"
+    },
+    {
+      "name": "S09-Sequence-Range.py",
+      "title": "S09.py"
+    },
+    {
+      "name": "S10-Contour-Plot.py",
+      "title": "S10.py"
     }
   ],
   "summary": "",
