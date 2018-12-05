@@ -13,6 +13,8 @@ standard_deviation = .1
 y = np.random.normal(mean, standard_deviation, 50)
 print('\nNormal (mean: 50, std: 0.1):')
 print(y)
+print('actual mean:', y.mean())
+print('actual std:', y.std())
 
 correlation = np.correlate(x, y)
 print('\nCorrelation:')
